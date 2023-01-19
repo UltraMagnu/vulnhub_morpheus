@@ -1,0 +1,12 @@
+type:vbd
+user-name:ultramagnu
+stage: inmersion
+discovery vulnerabilities: CVE-2019-6111, Apache httpd 2.4.51
+by me:2
+in-repo:0
+estimated-vulnerabilities:3
+discovery-percentage:50%
+total time: 1:40
+effort:medium
+date:2022-12-27 15:45:27
+path:lekriss
